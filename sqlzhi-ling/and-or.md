@@ -13,7 +13,7 @@ Product表格：
 | 3 | JavaScript |110|
 | 4 | Python |80|
 
-##### 1.查詢價格等於100或80的資料
+##### 1.查詢價格等於100或110的資料
 
 ```sql
 SELECT * FROM Product WHERE product_price=100 OR product_price=110
