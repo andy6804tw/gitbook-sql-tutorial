@@ -8,4 +8,5 @@
 ## SQL指令
 
 * [SELECT](sqlzhi-ling/select.md)
+* [WHERE](sqlzhi-ling/where.md)
 
