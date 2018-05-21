@@ -15,3 +15,9 @@ Product表格：
 |    1     |    C語言    |100|
 |    2     |    Java    |110|
 |    3     |   Python   |80|
+
+##### 1.查詢所有欄位資料
+
+```sql
+ SELECT * FROM Product
+``` 
