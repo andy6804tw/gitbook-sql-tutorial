@@ -21,3 +21,24 @@ Product表格：
 ```sql
  SELECT * FROM Product
 ``` 
+
+![](/assets/img1-1.png)
+
+##### 2.查詢某個欄位資料
+
+```sql
+ SELECT product_name FROM Product
+``` 
+
+![](/assets/img1-2.png)
+
+若想將輸出欄位名稱改名可以使用 `AS` 語法。
+
+```sql
+ SELECT product_name AS "Name" FROM Product
+``` 
+
+![](/assets/img1-3.png)
+
+
+
