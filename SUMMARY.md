@@ -9,4 +9,5 @@
 
 * [SELECT](sqlzhi-ling/select.md)
 * [WHERE](sqlzhi-ling/where.md)
+* [DISTINCT](sqlzhi-ling/distinct.md)
 
