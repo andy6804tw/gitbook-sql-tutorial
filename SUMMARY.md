@@ -13,4 +13,5 @@
 * [AND OR](sqlzhi-ling/and-or.md)
 * [IN](sqlzhi-ling/in.md)
 * [BETWEEN](sqlzhi-ling/between.md)
+* [LIKE](sqlzhi-ling/like.md)
 
