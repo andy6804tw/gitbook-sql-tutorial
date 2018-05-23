@@ -14,4 +14,10 @@
 * [IN](sqlzhi-ling/in.md)
 * [BETWEEN](sqlzhi-ling/between.md)
 * [LIKE](sqlzhi-ling/like.md)
+* [ORDER BY](sqlzhi-ling/order-by.md)
+
+## 函數
+
+* [AVG](han-shu/avg.md)
+* [COUNT](han-shu/count.md)
 
