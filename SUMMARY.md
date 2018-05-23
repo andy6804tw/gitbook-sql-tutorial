@@ -20,4 +20,6 @@
 
 * [AVG](han-shu/avg.md)
 * [COUNT](han-shu/count.md)
+* [MAX](han-shu/max.md)
+* [MIN](han-shu/min.md)
 
