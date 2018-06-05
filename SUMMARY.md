@@ -24,4 +24,5 @@
 * [MIN](han-shu/min.md)
 * [SUM](han-shu/sum.md)
 * [GROUP BY ](han-shu/group-by.md)
+* [HAVING](han-shu/having.md)
 

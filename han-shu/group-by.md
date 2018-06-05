@@ -16,7 +16,7 @@ Product表格：
 | 6 | C語言 |14|
 
 
-##### 1. 依據 `product_name` 計算該類庫存
+##### 1. 依據 `product_name` 分類計算該類庫存(product_stock)
 
 ```sql
 SELECT product_name,SUM(product_stock) FROM product GROUP BY product_name
