@@ -22,4 +22,6 @@
 * [COUNT](han-shu/count.md)
 * [MAX](han-shu/max.md)
 * [MIN](han-shu/min.md)
+* [SUM](han-shu/sum.md)
+* [GROUP BY ](han-shu/group-by.md)
 
