@@ -15,6 +15,9 @@
 * [BETWEEN](sqlzhi-ling/between.md)
 * [LIKE](sqlzhi-ling/like.md)
 * [ORDER BY](sqlzhi-ling/order-by.md)
+* [GROUP BY ](han-shu/group-by.md)
+* [HAVING](han-shu/having.md)
+* [ALIAS](sqlzhi-ling/alias.md)
 
 ## 函數
 
@@ -23,6 +26,4 @@
 * [MAX](han-shu/max.md)
 * [MIN](han-shu/min.md)
 * [SUM](han-shu/sum.md)
-* [GROUP BY ](han-shu/group-by.md)
-* [HAVING](han-shu/having.md)
 
