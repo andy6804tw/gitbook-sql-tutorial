@@ -18,6 +18,7 @@
 * [GROUP BY ](han-shu/group-by.md)
 * [HAVING](han-shu/having.md)
 * [ALIAS](sqlzhi-ling/alias.md)
+* [AS](sqlzhi-ling/as.md)
 
 ## 函數
 
