@@ -23,6 +23,6 @@ Product表格：
 跟 `ALIAS(別名)` 範例一樣，若要改寫欄位名稱可以加上 `AS` 關鍵字。
 
 ```sql
-SELECT A1.product_name as name,SUM(A1.product_stock) as stock FROM product as  A1 GROUP BY A1.product_name 
+SELECT A1.product_name as name,SUM(A1.product_stock) as stock FROM Product as  A1 GROUP BY A1.product_name 
 ```
 

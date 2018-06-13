@@ -25,6 +25,6 @@ Product表格：
 跟 `GROUP BY` 範例一樣不過仔細看我們在語法上添加了欄位別名與表格別名，目的是為了讓 SQL 產生的結果易讀，且能夠自訂顯示的欄位名稱，下面範例 `A1` 就是所謂的別名(可自由命名)。
 
 ```sql
-SELECT A1.product_name name,SUM(A1.product_stock) stock FROM product A1 GROUP BY A1.product_name 
+SELECT A1.product_name name,SUM(A1.product_stock) stock FROM Product A1 GROUP BY A1.product_name 
 ```
 

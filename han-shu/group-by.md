@@ -19,7 +19,7 @@ Product表格：
 ##### 1. 依據 `product_name` 分類計算該類庫存(product_stock)
 
 ```sql
-SELECT product_name,SUM(product_stock) FROM product GROUP BY product_name
+SELECT product_name,SUM(product_stock) FROM Product GROUP BY product_name
 ```
 
 ![](/assets/img14-1.png)

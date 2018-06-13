@@ -19,7 +19,7 @@ Product表格：
 ##### 1. 依據 `product_name` 分類計算庫存(product_stock)大於100的商品
 
 ```sql
-SELECT product_name,SUM(product_stock) FROM product GROUP BY product_name HAVING SUM(product_stock)>100
+SELECT product_name,SUM(product_stock) FROM Product GROUP BY product_name HAVING SUM(product_stock)>100
 ```
 
 ![](/assets/img15-1.png)
