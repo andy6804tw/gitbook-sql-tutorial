@@ -2,7 +2,7 @@
 使用 GROUP BY 依據某個欄位來做群組分類。
 
 ## 範例
-我們已下面這個 Product 表格來做查詢。
+我們以下面這個 Product 表格來做查詢。
 
 Product表格：
 

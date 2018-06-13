@@ -2,7 +2,7 @@
 BETWEEN 是讓我們可以使用一個範圍 (range) 內抓出資料庫中的值。
 
 ## 範例
-我們已下面這個 Product 表格來做查詢。
+我們以下面這個 Product 表格來做查詢。
 
 Product表格：
 

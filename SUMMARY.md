@@ -19,6 +19,7 @@
 * [HAVING](han-shu/having.md)
 * [ALIAS](sqlzhi-ling/alias.md)
 * [AS](sqlzhi-ling/as.md)
+* [表格連接](sqlzhi-ling/biao-ge-lian-jie.md)
 
 ## 函數
 

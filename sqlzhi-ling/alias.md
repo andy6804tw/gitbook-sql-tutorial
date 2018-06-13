@@ -7,7 +7,7 @@ SELECT "表格別名"."欄位1" "欄位別名" FROM "表格名" "表格別名";
 ```
 
 ## 範例
-我們已下面這個 Product 表格來做查詢。
+我們以下面這個 Product 表格來做查詢。
 
 Product表格：
 
@@ -28,3 +28,4 @@ Product表格：
 SELECT A1.product_name name,SUM(A1.product_stock) stock FROM Product A1 GROUP BY A1.product_name 
 ```
 
+![](/assets/img16-1.png)
