@@ -28,4 +28,5 @@
 * [MAX](han-shu/max.md)
 * [MIN](han-shu/min.md)
 * [SUM](han-shu/sum.md)
+* [CONCAT](han-shu/concat.md)
 
