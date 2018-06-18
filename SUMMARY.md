@@ -29,4 +29,5 @@
 * [MIN](han-shu/min.md)
 * [SUM](han-shu/sum.md)
 * [CONCAT](han-shu/concat.md)
+* [SUBSTRING](han-shu/substring.md)
 
