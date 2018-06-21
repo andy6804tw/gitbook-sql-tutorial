@@ -31,4 +31,5 @@
 * [CONCAT](han-shu/concat.md)
 * [SUBSTRING](han-shu/substring.md)
 * [TRIM](han-shu/trim.md)
+* [LENGTH](han-shu/length.md)
 
